@@ -1,4 +1,4 @@
-# QOSF_Screening_Task
+# QOSF_Task
 
 This repository contains Task 1 and Task 4 of QOSF Mentorship Program Screening Tasks. 
 
